@@ -1,3 +1,5 @@
+# Adapted from a NeuralNine youtube video
+
 #!/usr/bin/python
 
 import sys
